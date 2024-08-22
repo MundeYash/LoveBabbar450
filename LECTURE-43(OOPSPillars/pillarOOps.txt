@@ -1,0 +1,45 @@
+
+4 Pillar of obejct oriented Programming 
+
+1. Encapsulation(data hiding / information hiding ) : wrapping of data member and member functions 
+. fully encapsulated class : all the data members and  member functions are marked private 
+        advantages : -> improves security by hiding the data 
+         if we want we can make class read only 
+         code reusability 
+
+
+2.Inheritance   : ->(inherited some properties and member functions of one class to another )
+example :-> human class (super class / parent class)-> male class (inherit class / derived class / sub-class )
+
+
+// private member of the class is not accessible 
+
+// Types of Inheritance :->
+. single level inheritance 
+. multi level inheritance 
+. multiple inheritance : inheriting two or more class in the same class 
+. Hybrid inheritance
+. Heirarchical inheritance 
+
+// Advantages of types of inheritance 
+
+
+
+// Inheritance Abmiguity
+Use scope resolution operation for class inherited from the two classes having the same function (::)
+
+
+
+// POLYMORPHISM : many forms (means declaring the same function with same name and different parameter values )
+
+
+1. Run time polymorphism (dynamic polymorphism)
+
+2.Compile time polymorphism(static polymorphism)
+
+// overloading : for overloading of function we have to change the input paramters 
+
+
+// Run Time polymorphism:
+
+homework:opertor overloading

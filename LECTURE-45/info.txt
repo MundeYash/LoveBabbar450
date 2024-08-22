@@ -1,0 +1,4 @@
+
+    //Reverse of a Link list 
+    //Approach 1: Iterative approach (via loops )
+    // Approach 2: Recursive approach 

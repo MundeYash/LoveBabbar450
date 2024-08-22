@@ -1,0 +1,15 @@
+cin can not takes the input of space , enter and tab characteres 
+
+Methods for taking the input of space , enter and tab character 
+Method 1- >  cin.getline (string_name , string_length)
+Method 2 -> getline(cin , string_name)
+
+// Inbuilt function for the character array 
+  for getting length -> strlen(string_name/ character_arrayName)
+  for comparing two strings / character_array -> strcmp(string1 , string2 )
+  for copying the one string to another -> strcpy (destination_string , source_string)
+
+
+
+  // important functions in the string 
+

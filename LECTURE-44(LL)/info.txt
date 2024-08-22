@@ -1,0 +1,28 @@
+//Singly link list 
+
+
+
+// Doubly link list 
+     . creation of doubly ll
+
+
+     Insertion
+     . Inseriton at front /head 
+     . Inseriton at Tail / end 
+     . Inseriton in middle / position 
+
+     Deletion 
+     . delete at front 
+     . delete at tail 
+     .delete at middle 
+     . length of the ll 
+     .printing doubly ll 
+
+//Circular Link List 
+
+    . Insertion 
+    . Deletion 
+    . Traversing 
+    
+
+

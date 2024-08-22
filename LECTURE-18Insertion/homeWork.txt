@@ -1,0 +1,5 @@
+All the homework of the Insertion sort algorithm lecture -18 
+. this is an adaptable algorithm 
+. this is  a stable algorithm
+. this is best suitable for shorter array length 
+.Complexities : T:O(n^2) , S:O(1)

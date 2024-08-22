@@ -1,0 +1,51 @@
+What is Object Oriented Programming ? 
+
+
+OOps object and classes 
+class - It is a user defined data type 
+Object - object is instance/ format / example of class 
+for accessing properties of data members of the class we need to use (dot.)operator 
+
+
+Access Modifiers -> public , private and protected 
+
+
+//Getter and setter :-> for accessing / changing data member of private members (indirect way of accessing the private data members)
+// Dynamically creation of object of a class 
+
+// constructor : default constructor is called whenever the object is created : 
+. It does not have return type , have same name of class , does not have input parameter 
+
+
+// concept of this Pointer 
+
+//defautl constructor , parameter constructor , copy constructor 
+
+// deep copy and shallow copy 
+IN SHALLOW    copy we are accessing the same the values different names
+the values of name pointer is also pointer to the same location (it is similiar like pass by reference )
+. default  constructor does the deep coy 
+
+// Copy Assignment Operator 
+
+// Destructor : for the deleting the created constructor 
+. memory deallocate 
+. same name as name of class 
+. no return type 
+. created using the not (~)sign 
+. for static allocation the destructor is called automatically 
+
+// Static keyword : we do not need create object for  accessing the static data member of a class 
+. It does not belong to the object , it only belongs to the created class 
+
+// Static functions : 
+. they do not have this pointer .
+. Static function can only be able to access the static member of the class 
+
+
+
+
+HOMEWORK : Padding , Greedy alignment , constant key word  -> object creation, data members  , function creation , Intialisation list 
+
+
+https://www.codingninjas.com/studio/guided-paths/oops-in-c/content/274159/offering/3757644

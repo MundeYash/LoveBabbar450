@@ -1,0 +1,27 @@
+What is Graph ?
+A graph is data structure which is the combination of nodes and edges.
+
+What are the different types of graph  ? 
+    There are two types of graph : directed graph -> in which the direction of edges between the nodes are mentioned 
+                                  Undirected graph -> in which the direction of edges between the nodes are not mentioned 
+
+
+Nodes : a kind of entity to store some data 
+Edges : a connection to join the nodes 
+Degree of node : the number of edges connected to a nodes 
+    
+    Types of Degree : indegree : number of inward arrows toward the node 
+                        outdegree : number of arrows going away from the node 
+
+
+
+    Weighted: the graphs in which some value (weight ) is mentioned on the edges and Unweighted Graphs : the graph in which weight is not mentioned on the edges 
+
+Path : sequence of traversing / visiting the nodes not more than one time in a path   
+
+    Cyclic : a graph in which a cycle is formed and Acylic Graph : graph in which a cycle is not formed 
+
+
+Different Types of Representation of Graph 
+    1. Adjacency Matrix : the representation of connection between the nodes is reprsented in the 2-d matrix (space : O(n^2))
+    2. Adjacency List 

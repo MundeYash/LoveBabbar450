@@ -1,0 +1,4 @@
+// solve the quiz on the gfg bubble sort 
+is it a stable algo or not 
+what is inplace sort 
+use case of bubble sort 

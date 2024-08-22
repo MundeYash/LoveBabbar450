@@ -1,0 +1,9 @@
+{
+  "files.associations": {
+    "iostream": "cpp",
+    "random": "cpp",
+    "2D ARRAY.C": "cpp",
+    "ostream": "cpp",
+    "unordered_map": "cpp"
+  }
+}

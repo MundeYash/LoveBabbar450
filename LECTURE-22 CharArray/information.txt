@@ -1,0 +1,6 @@
+cin ignores the tab, space and newline character 
+compiler does not print any thing after the null character 
+To get the length of character array (s.size()) // function is used 
+TO convert the lower case to upper case (ch + 'a'-'A')formula is used 
+
+HOMEWORK : key differences between string and character array 
